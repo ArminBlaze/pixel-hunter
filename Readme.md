@@ -1,6 +1,5 @@
 # Личный проект «Пиксель хантер» [![Build status][travis-image]][travis-url]
 
-* Студент: [Николай К](https://up.htmlacademy.ru/ecmascript/2/user/202794).
 * Наставник: `Неизвестно`.
 
 ---
